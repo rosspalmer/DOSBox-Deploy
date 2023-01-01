@@ -1,0 +1,18 @@
+{
+  "command": "dosbox-x --conf {{emulator_config}} {{execute}}",
+  "dos_folder": "~/DOS",
+  "script_folder": "~/DOS-SCRIPTS/Games",
+  "executes": [
+    {
+      "name": "Ultimate DOOM",
+      "execute": "DOOM/DOOM.EXE",
+      "store": "FPS/DOOM-Series"
+    },
+    {
+      "name": "Oregon Trail",
+      "emulator": "original-ibm",
+      "execute": "MECC/OT.EXE",
+      "store": "Trail-Games"
+    }
+  ]
+}

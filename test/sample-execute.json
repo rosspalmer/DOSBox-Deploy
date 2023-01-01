@@ -1,0 +1,6 @@
+{
+  "name": "Ultimate DOOM",
+  "emulator": "pentium",
+  "execute": "DOOM/DOOM.EXE",
+  "store": "FPS/DOOM-Series"
+}
